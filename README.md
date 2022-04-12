@@ -4,7 +4,9 @@ Simple express server deployed on AWS
 
 ## Links
 
-[AWD GUI Deployement](http://basiccloudserver-env.eba-j2bkkqgf.us-east-1.elasticbeanstalk.com/)
+[AWS GUI Deployement](http://basiccloudserver-env.eba-j2bkkqgf.us-east-1.elasticbeanstalk.com/)
+
+[AWS EB Terminal Deployment](http://simple-express-cli-env.eba-zdnnfzb2.us-east-1.elasticbeanstalk.com/)
 
 ## Authors and Contributors
 
